@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCCGen", "DCCGen\DCCGen.csproj", "{288FA721-F002-41B9-8B7C-6BD7E6071C71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{288FA721-F002-41B9-8B7C-6BD7E6071C71}.Debug|x86.ActiveCfg = Debug|x86
+		{288FA721-F002-41B9-8B7C-6BD7E6071C71}.Debug|x86.Build.0 = Debug|x86
+		{288FA721-F002-41B9-8B7C-6BD7E6071C71}.Release|x86.ActiveCfg = Release|x86
+		{288FA721-F002-41B9-8B7C-6BD7E6071C71}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
